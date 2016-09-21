@@ -6,12 +6,6 @@ publication-date: 1912-12
 source: "Poetry Magazine 1.3 (December 1912): 87-91"
 ---
 
-## EDITORIAL COMMENT
-
-
-### A Perfect Return
-
-
 It is curious that the influence of Poe upon Baudelaire, Verlaine, and Mallarmé, and through them upon English poets, and then through these last upon Americans, comes back to us in this round-about and indirect way. We have here an instance of what Whitman calls a "perfect return." We have denied Poe, we do not give him his full meed of appreciation even today, and yet we accept him through the disciples who have followed or have assimilated his tradition. And now that young Englishmen are beginning to feel the influence of Whitman upon French poetry, it may be that he too, through the imitation of _vers libre_ in America, will begin to experience a "perfect return." 
 
 
