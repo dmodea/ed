@@ -1,7 +1,7 @@
 ---
 layout: narrative
-title: A Perfect Return
-author: Alice Corbin Henderson
+title: 
+author: 
 publication-date: 1912-12
 source: "Poetry Magazine 1.3 (December 1912): 87-91"
 ---
