@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: A Perfect Return
+author: Alice Corbin Henderson
+publication-date: 1912-12
+source: modjourn.org
+---
+
 ## EDITORIAL COMMENT
 
 
