@@ -1,7 +1,10 @@
-EDITORIAL COMMENT. 
-
-"TOO FAR FROM PARIS”
-
+---
+layout: narrative
+title: Too Far From Paris
+author: Alice Corbin Henderson
+publication-date: 1914-06
+source: "Poetry Magazine 4.3 (June 1914): 105-111"
+---
 
 It is easy to be patriotic in the days of a country's adversity; for then patriotism means something very personal. Its root is personal, no doubt, although that does not prevent the emotions transcending the bounds of a merely selfish personal motive. But the fact that the sentiment is emotional and personal, rather than abstract and rhetorical, is what constitutes its living force. 
 
